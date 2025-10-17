@@ -1,5 +1,5 @@
 # Analise-de-Predicao-de-Diabetes-Tipo-II
-Este repositório contém um projeto de ciência de dados sobre predição de diabetes tipo II. Foram utilizadas técnicas de análise exploratória, clusterização e aprendizado de máquina supervisionado (Redes Neurais, Árvore de decisão e Random Forest). O projeto faz parte de uma disciplina sobre Inteligência Artificial e a escolha do banco de dados foi livre.
+Este repositório contém um projeto de ciência de dados sobre predição de diabetes tipo II. Foram utilizadas técnicas de análise exploratória, clusterização e aprendizado de máquina supervisionado (Redes Neurais, Árvore de decisão e Random Forest). O projeto faz parte de uma disciplina sobre Inteligência Artificial no programa de Pós-Graduação e a escolha do banco de dados foi livre.
 
 ## Objetivo
 Este trabalho se trata sobre a predição de Diabetes Mellitus tipo 2, em que foi utilizada a base de dados “Diabetes Health Indicators Dataset” para extração de dados para  o estudo de diferentes fatores na predição de diabetes.
