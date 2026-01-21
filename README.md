@@ -7,7 +7,7 @@ O projeto foi desenvolvido como parte de uma disciplina de Inteligência Artific
 Este trabalho se trata sobre a predição de Diabetes Mellitus tipo 2, em que foi utilizada a base de dados “Diabetes Health Indicators Dataset” para extração de dados para  o estudo de diferentes fatores na predição de diabetes.
 
 ### Resultados
-A partir das métricas obtidas pelos diferentes algoritmos e estratégias de validação, foram levantadas hipóteses sobre o comportamento dos modelos. Um dos principais resultados foi a redução do número de falsos negativos (aspecto crítico em predições de DM2). Além disso, a análise de importância dos atributos indicou que os fatores mais relevantes para o modelo foram: presença ou ausência de pressãp arterial alta, autopercepção do estado de saúde, índice de massa corporal e idade.
+A partir das métricas obtidas pelos diferentes algoritmos e estratégias de validação, foram levantadas hipóteses sobre o comportamento dos modelos. Um dos principais resultados foi o baixo número de falsos negativos (aspecto crítico em predições de DM2). Além disso, a análise de importância dos atributos indicou que os fatores mais relevantes para o modelo foram: presença ou ausência de pressãp arterial alta, autopercepção do estado de saúde, índice de massa corporal e idade.
 
 ## Conjunto de Dados
 O conjunto de dados utilizado neste relatório é derivado do "Behavioral Risk Factor Surveillance System (BRFSS)", pesquisa nacional de saúde conduzida anualmente pelo _Centers for Disease Control and Prevention_ _(CDC)_ nos Estados Unidos.
